@@ -1,0 +1,23 @@
+
+#grid {
+    display: grid;
+    max-width: 500px;
+    min-height: 500px;
+    margin: 2rem auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    /* grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px; */
+    /* grid-template-rows: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px; */
+}
+
+.gridsquare {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+body {
+    font-size: 1.6rem;
+    text-align: center;
+  }
